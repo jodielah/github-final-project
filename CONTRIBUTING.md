@@ -1,6 +1,9 @@
 ### Contribution guidelines
 Welcome!
 
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
+
 Thank you for contributing to the centralized repository. This document outlines the guidelines for contributing to the development of _Simple Interest Calculator_
 #### Code style
 Please follow the coding style and conventions used in the existing codebase. This helps maintain consistency across the project.
